@@ -17,12 +17,15 @@ Before running this application, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/TempoGIF.git
-Navigate into the project directory:
 
-bash
+###2. Navigate into the project directory:
+
+```bash
 Copy code
 cd TempoGIF
-Create and activate a virtual environment (optional but recommended):
+
+
+###3. Create and activate a virtual environment (optional but recommended):
 
 bash
 Copy code
